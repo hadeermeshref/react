@@ -1,0 +1,38 @@
+.home{
+    background-color: #1abc9c;
+    color: #fff;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.homeContent{
+    height: 100%;
+    text-align: center;
+    
+}
+.imgSize{
+    width: 250px;
+    height: 250px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+.text{
+    font-weight: bold;
+    font-size: 70px;
+    padding: 10px;
+}
+.icon{
+    font-size: 30px;
+    padding-bottom: 10px;
+}
+
+.ptext{
+    font-size: 25px;
+}
+
+
+
+
+
