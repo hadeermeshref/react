@@ -14,7 +14,7 @@ export default class Portifolio extends Component {
                     <div className="container text-center">
                        <h2 className={`${Style.main } mt-5`}>PORTFOLIO</h2>
                        <i className={ `${Style.icon} fas fa-star pb-4`}></i>
-                        <div className="row ">
+                        <div className="row my-4">
                             <div className="col-md-4 mb-3 ">
                                 <img className="w-100 rounded" src={img1} alt=""/>
                             </div>
